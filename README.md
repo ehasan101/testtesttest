@@ -51,11 +51,7 @@ class t102 {
          in.close(); //close Scanner
     }
 }
-    
-
-
-
-    
+      
 ```
 ## TEST PORGRAM WITH DIFFERENT INPUT:
 ![1](https://drive.google.com/uc?export=view&id=1h5eGkCfvGZodbJ5xX4gFxC9hQk0absnW)
